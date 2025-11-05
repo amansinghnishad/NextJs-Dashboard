@@ -1,9 +1,11 @@
+'use client';
+
+
 import {
   UserGroupIcon,
   HomeIcon,
   DocumentDuplicateIcon,
 } from '@heroicons/react/24/outline';
-'use client';
 
 import Link from 'next/link';
 
